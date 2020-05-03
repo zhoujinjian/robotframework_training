@@ -1,0 +1,4 @@
+*** Settings ***
+Suite Setup       set_global_token
+Force Tags        myPatients
+Resource          ../../../../Resources/Business/HealthManager.robot
